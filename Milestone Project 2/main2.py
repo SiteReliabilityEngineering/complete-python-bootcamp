@@ -54,4 +54,3 @@ while game:
                         play1card.mod_card(rand_card())
                         if play1.points < 21:
                             print "You have %d points" % (points)
-                            
